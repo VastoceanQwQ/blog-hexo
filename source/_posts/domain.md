@@ -14,16 +14,16 @@ comment: true
 
 今后可以通过以下链接访问本站:
 
-{% label success @推荐 %} <a href="https://www.hhhy.link/">www.hhhy.link</a> (主域名,部署于Vercel)
+{% label success @推荐 %} <a href="https://www.hhhy.link/">www.hhhy.link</a> (主域名,部署于Vercel) <br>
  
-{% label success @推荐 %} <a href="https://hhhy.link/">hhhy.link</a> (重定向至www.hhhy.link)
+{% label success @推荐 %} <a href="https://hhhy.link/">hhhy.link</a> (重定向至www.hhhy.link) <br>
 
-{% label info @备用 %} <a href="https://www.hhhy.tk/">www.hhhy.tk</a> (与link域名的解析指向相同)
+{% label info @备用 %} <a href="https://www.hhhy.tk/">www.hhhy.tk</a> (与link域名的解析指向相同) <br>
 
-{% label info @备用 %} <a href="https://hhhy.tk/">hhhy.tk</a> (重定向至www.hhhy.tk)
+{% label info @备用 %} <a href="https://hhhy.tk/">hhhy.tk</a> (重定向至www.hhhy.tk) <br>
 
-<!-- 
-{% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[mirror.hhhy.link](https://mirror.hhhy.link/) (部署于Github Pages)
+
+<!-- {% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[mirror.hhhy.link](https://mirror.hhhy.link/) (部署于Github Pages)
 
 {% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[mirror.hhhy.tk](https://mirror.hhhy.tk/) (部署于Cloudflare Pages)
 
