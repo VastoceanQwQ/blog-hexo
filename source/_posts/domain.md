@@ -22,20 +22,3 @@ comment: true
 
 {% label info @备用 %} <a href="https://hhhy.tk/">hhhy.tk</a> (重定向至www.hhhy.tk) <br>
 
-
-<!-- {% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[mirror.hhhy.link](https://mirror.hhhy.link/) (部署于Github Pages)
-
-{% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[mirror.hhhy.tk](https://mirror.hhhy.tk/) (部署于Cloudflare Pages)
-
-{% label info @备用 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[hanhaiyizhan.vercel.app](https://hanhaiyizhan.vercel.app/) (Vercel初始域名)
-
-{% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[hhhy.pages.dev](https://hhhy.pages.dev/) (Cloudflare Pages初始域名)
-
-{% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[haohanhaiyang.github.io](https://haohanhaiyang.github.io/) (备用,Github Pages初始域名)
-
-(↑这里是网站源代码所在仓库,如果除这个链接以外的链接都打不开了请访问这个链接)
-
-{% label warning @镜像 %} <a href="https://www.hhhy.link/">www.hhhy.link</a>[haohanhaiyang.gitee.io](https://haohanhaiyang.gitee.io/) (国内镜像,但不一定是最新的,部署于Gitee Pages)
-
-文章于2022-06-01更新(第1次更新)，创建日期：2022-03-14
-{:.info} -->
