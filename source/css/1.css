@@ -8,8 +8,8 @@
     --waline-dark-grey: #666;
 
     /* 布局颜色 */
-    --waline-theme-color: #0268ac;
-    --waline-active-color: #0091f2;
+    --waline-theme-color: #0091f2;
+    --waline-active-color: rgb(64, 177, 252);
     --waline-color: #444;
     --waline-bgcolor: #fff;
     --waline-bgcolor-light: #f8f8f8;
