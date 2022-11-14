@@ -812,7 +812,7 @@ valine:
 # Derived from Valine, with self-hosted service and new features
 # See: https://waline.js.org/
 waline:
-  serverURL: 'waline2-gamma.vercel.app'
+  serverURL: 'comment.vastocean.tk'
   path: window.location.pathname
   meta: ['nick', 'mail', 'link']
   requiredMeta: ['nick']
