@@ -10,7 +10,7 @@ comment: true
 文章暂时没时间写，先放几张图片吧。
 
 ![](/img/novelai/1001.png)
-{% note primary %}
+<!-- {% note primary %}
 ### 提示词
 <p>(((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration),beautiful detailed sky ,night,stars,(1girl)((an extremely delicate and beautiful girl)),red eyes,dramatic angle,small breasts,(((full body))),hood,cold face and white shirt,(((long white hair))),(red hair),(red plum blossom),((winter)),(((snowflakes))){{{{{{detailed cute anime face}}}}}},cinmatic lighting,((red and white flowers))，hairs between eyes, expressionless, young girl,(((Facing the lens))),(starry sky),((Beautiful face)),((full body)),(sitting),depth_of_field,((colorful)),scenery,hair_flower,lantern,christmas,(starfall)</p>
 {% endnote %}
@@ -29,4 +29,10 @@ comment: true
 {% note primary %}
 ### 提示词
 <p>...</p>
-{% endnote %}
+{% endnote %}-->
+
+![](/img/novelai/1002.png)
+![](/img/novelai/1003.png)
+![](/img/novelai/1004.png)
+![](/img/novelai/1005.png)
+![](/img/novelai/1006.png)
