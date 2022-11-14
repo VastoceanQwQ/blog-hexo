@@ -15,7 +15,7 @@ comment: true
 (((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration),beautiful detailed sky ,night,stars,(1girl)((an extremely delicate and beautiful girl)),red eyes,dramatic angle,small breasts,(((full body))),hood,cold face and white shirt,(((long white hair))),(red hair),(red plum blossom),((winter)),(((snowflakes))){{{{{{detailed cute anime face}}}}}},cinmatic lighting,((red and white flowers))，hairs between eyes, expressionless, young girl,(((Facing the lens))),(starry sky),((Beautiful face)),((full body)),(sitting),depth_of_field,((colorful)),scenery,hair_flower,lantern,christmas,(starfall)
 {% endnote %}
 
-{% note warning %}
+{% note secondary %}
 ### 负面提示词
 (((ugly))),(((duplicate))),((morbid)),((mutilated)),(((tranny))),mutated hands,(((poorly drawn hands))),blurry,((bad anatomy)),(((bad proportions))),extra limbs,cloned face,(((disfigured))),(((more than 2 nipples))),((((missing arms)))),(((extra legs))),mutated hands,(((((fused fingers))))),(((((too many fingers))))),(((unclear eyes))),lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad feet，text font ui,malformed hands,long neck,missing limb,(mutated hand and finger: 1.5),(long body: 1.3),(mutation poorly drawn: 1.2),disfigured,malformed mutated,multiple breasts,futa,yaoi
 {% endnote %}
