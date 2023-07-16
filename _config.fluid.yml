@@ -106,7 +106,7 @@ fun_features:
   # Add an anchor icon to the title on the post page
   anchorjs:
     enable: true
-    element: h1,h2,h3,h4,h5,h6
+    element: h1,h2,h3 # ,h4,h5,h6
     # Options: left | right
     placement: left
     # Options: hover | always | touch
@@ -145,8 +145,8 @@ color:
 
   # 顶部菜单背景色
   # Color of navigation bar background
-  navbar_bg_color: "#62a0e3"
-  navbar_bg_color_dark: "#4f81b8"
+  navbar_bg_color: "#30baff"
+  navbar_bg_color_dark: "#2ba4e0"
 
   # 顶部菜单字体色
   # Color of navigation bar text
@@ -462,7 +462,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://img.hhhy.link/random #/img/default.png
+  banner_img: https://img.vastocean.tk/random #/img/default.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -638,7 +638,7 @@ post:
 
     # 目录会选择这些节点作为标题
     # TOC will select these nodes as headings
-    headingSelector: "h1,h2,h3,h4,h5,h6"
+    headingSelector: "h1,h2" # ,h3,h4,h5,h6"
 
     # 层级的折叠深度，0 是全部折叠，大于 0 后如果存在下级标题则默认展开
     # Collapse depth. If 0, all headings collapsed. If greater than 0, it will be expanded by default if there are sub headings
@@ -823,7 +823,7 @@ waline:
     'https://unpkg.com/@waline/emojis@1.0.1/weibo',
     ]
   dark: 'html[data-user-color-scheme="dark"]'
-  wordLimit: 3000
+  wordLimit: 
   pageSize: 10
   cssUrl: /css/1.css
 
@@ -933,7 +933,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: 'https://img.hhhy.link/random'
+  banner_img: 'https://img.vastocean.tk/random'
   banner_img_height: 80
   banner_mask_alpha: 0.2
   tagcloud:
@@ -950,7 +950,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: 'https://img.hhhy.link/random'
+  banner_img: 'https://img.vastocean.tk/random'
   banner_img_height: 60
   banner_mask_alpha: 0.2
   avatar: /img/avatar2.png
@@ -983,7 +983,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: 'https://img.hhhy.link/random'
+  banner_img: 'https://img.vastocean.tk/random'
   banner_img_height: 85
   banner_mask_alpha: 0.2
   # 重定向到首页的延迟(毫秒)
@@ -997,7 +997,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: 'https://img.hhhy.link/random'
+  banner_img: 'https://img.vastocean.tk/random'
   banner_img_height: 60
   banner_mask_alpha: 0.2
   # 友链的成员项

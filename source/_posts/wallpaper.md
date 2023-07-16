@@ -14,8 +14,10 @@ comment: true
 
 虽然是个人自用，但如果你也想用的话我也不介意(*/ω＼*)。之后会再打磨一下，且不定期更新图片库
 
-> 接口地址：(调用方法在这里！)
+> 接口地址：(调用方法也在这里！)
 >
-> [https://img.hhhy.link/](https://img.hhhy.link/)
+> [https://img.vastocean.tk/](https://img.vastocean.tk/)
 
 <del>(其实做这个不是很难，而且所有资源都是白嫖的[doge])</del>
+
+#### img.hhhy.link 域名已废弃,请使用新域名
