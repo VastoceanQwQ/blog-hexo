@@ -1,6 +1,6 @@
 ---
 title: 域名更换
-date: 2022-03-14 20:00:00 +0800
+date: 2024-02-11 20:00:00 +0800
 index_img: https://haohanhaiyang.gitee.io/img/nature/116.jpg
 banner_img: https://haohanhaiyang.gitee.io/img/nature/116.jpg
 tags: ["网站开发"]
@@ -18,4 +18,4 @@ Freenom 把 .tk 等免费域名收回了 @A@
 
 {% label success @推荐 %} <a href="https://www.vastocean.work/">www.vastocean.work</a> (主域名,部署于Vercel) <br>
  
-{% label success @推荐 %} <a href="https://vastocean.work/">vastocean.work</a> (重定向至www.vastocean.tk) <br>
+{% label success @推荐 %} <a href="https://vastocean.work/">vastocean.work</a> (重定向至www.vastocean.work) <br>

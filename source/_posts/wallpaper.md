@@ -16,7 +16,7 @@ comment: true
 
 > 接口地址：(调用方法也在这里！)
 >
-> [https://img.vastocean.tk/](https://img.vastocean.tk/)
+> [https://img.vastocean.work/](https://img.vastocean.work/)
 
 <del>(其实做这个不是很难，而且所有资源都是白嫖的[doge])</del>
 
